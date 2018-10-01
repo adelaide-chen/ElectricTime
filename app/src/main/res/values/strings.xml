@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Electric Time</string>
+    <string name="miles">Miles to go</string>
+    <string name="minutes">It will take x minutes</string>
+    <string name="alter">Alternatively,</string>
+    <string name="calc">Calculate</string>
+    <string name="no_miles">Enter a number of miles</string>
+    <string name="out_of_range">Out of range with (%d miles), try something else</string>
+    <string name="leading">It will take</string>
+    <string name="result">%s %.1f minutes by %s</string>
+    <string name="no_alter">\tnothing else</string>
+</resources>
